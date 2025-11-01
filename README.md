@@ -1,2 +1,11 @@
 # website-analysis
 This project explores website user behavior, traffic patterns, and engagement across different marketing channels. Using data analysis and visualization, the project uncovers key insights that help understand which channels perform best, when users are most active, and how engagement varies over time.
+
+
+What patterns or trends can you observe in website sessions and users over time?
+Which marketing channel brought the highest number of users to the website, and how can we use this insight to improve traffic from other sources?
+Which channel has the highest average engagement time, and what does that tell us about user behavior and content effectiveness?
+How does engagement rate vary across different traffic channels?
+Which channels are driving more engaged sessions compared to non-engaged ones, and what strategies can improve engagement in underperforming channels?
+At what hours of the day does each channel drive the most traffic?
+Is there any correlation between high traffic (sessions) and high engagement rate over time?
